@@ -66,7 +66,7 @@ const FriendDetails = () => {
   };
 
   return (
-    <div className="w-full max-w-7xl mx-auto py-16 lg:py-20 px-4 md:px-5">
+    <div className="w-full max-w-7xl mx-auto py-16 md:py-20 px-4 md:px-5">
       <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
 
         {/* Left */}
