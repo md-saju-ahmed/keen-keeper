@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Thompson",
+    "picture": "https://randomuser.me/api/portraits/men/24.jpg",
+    "email": "emma.thompson@example.org",
+    "days_since_contact": 9,
+    "status": "on-track",
+    "tags": [
+      "travel",
+      "adventure buddy"
+    ],
+    "bio": "Met during freshman year at State University. We bonded over late-night study sessions and weekend hikes.",
+    "goal": 14,
+    "next_due_date": "2026-04-18"
+  },
+  {
+    "id": 2,
+    "name": "Liam Garcia",
+    "picture": "https://randomuser.me/api/portraits/women/27.jpg",
+    "email": "liam.garcia@yahoo.com",
+    "days_since_contact": 23,
+    "status": "almost due",
+    "tags": [
+      "volunteer",
+      "community"
+    ],
+    "bio": "Colleagues at TechCorp who became close after working on a major project together. Love grabbing coffee and discussing startups.",
+    "goal": 21,
+    "next_due_date": "2026-04-11"
+  },
+  {
+    "id": 3,
+    "name": "Olivia Martinez",
+    "picture": "https://randomuser.me/api/portraits/women/13.jpg",
+    "email": "olivia.martinez@example.org",
+    "days_since_contact": 30,
+    "status": "almost due",
+    "tags": [
+      "travel",
+      "adventure buddy"
+    ],
+    "bio": "Grew up on the same street. Still meet up for backyard BBQs and reminiscing about childhood adventures.",
+    "goal": 30,
+    "next_due_date": "2026-04-13"
+  },
+  {
+    "id": 4,
+    "name": "Noah Robinson",
+    "picture": "https://randomuser.me/api/portraits/men/63.jpg",
+    "email": "noah.robinson@outlook.com",
+    "days_since_contact": 12,
+    "status": "almost due",
+    "tags": [
+      "hobby",
+      "book club"
+    ],
+    "bio": "Connected through a local book club. We share recommendations and deep conversations about literature and life.",
+    "goal": 10,
+    "next_due_date": "2026-04-11"
+  },
+  {
+    "id": 5,
+    "name": "Ava Clark",
+    "picture": "https://randomuser.me/api/portraits/women/81.jpg",
+    "email": "ava.clark@proton.me",
+    "days_since_contact": 40,
+    "status": "overdue",
+    "tags": [
+      "music",
+      "band mate"
+    ],
+    "bio": "Travel buddies from a solo trip to Europe. Now plan annual getaways to explore new destinations.",
+    "goal": 10,
+    "next_due_date": "2026-04-03"
+  },
+  {
+    "id": 6,
+    "name": "Ethan Rodriguez",
+    "picture": "https://randomuser.me/api/portraits/women/28.jpg",
+    "email": "ethan.rodriguez@outlook.com",
+    "days_since_contact": 23,
+    "status": "overdue",
+    "tags": [
+      "college",
+      "close friend"
+    ],
+    "bio": "Neighbors who started chatting at the dog park. Our pups are best friends too.",
+    "goal": 14,
+    "next_due_date": "2026-04-04"
+  },
+  {
+    "id": 7,
+    "name": "Sophia Lewis",
+    "picture": "https://randomuser.me/api/portraits/men/80.jpg",
+    "email": "sophia.lewis@proton.me",
+    "days_since_contact": 12,
+    "status": "on-track",
+    "tags": [
+      "music",
+      "band mate"
+    ],
+    "bio": "Met in a university coding bootcamp. Help each other debug life and career challenges.",
+    "goal": 21,
+    "next_due_date": "2026-04-22"
+  },
+  {
+    "id": 8,
+    "name": "Mason Walker",
+    "picture": "https://randomuser.me/api/portraits/women/18.jpg",
+    "email": "mason.walker@yahoo.com",
+    "days_since_contact": 6,
+    "status": "on-track",
+    "tags": [
+      "volunteer",
+      "community"
+    ],
+    "bio": "Played on the same soccer team for years. Still catch games together and talk strategy.",
+    "goal": 21,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 9,
+    "name": "Isabella Hall",
+    "picture": "https://randomuser.me/api/portraits/women/56.jpg",
+    "email": "isabella.hall@proton.me",
+    "days_since_contact": 15,
+    "status": "overdue",
+    "tags": [
+      "volunteer",
+      "community"
+    ],
+    "bio": "Joined the same amateur band in college. Jam sessions turned into lifelong friendship.",
+    "goal": 7,
+    "next_due_date": "2026-04-05"
+  },
+  {
+    "id": 10,
+    "name": "Lucas Allen",
+    "picture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "email": "lucas.allen@gmail.com",
+    "days_since_contact": 24,
+    "status": "almost due",
+    "tags": [
+      "music",
+      "band mate"
+    ],
+    "bio": "Met online in a multiplayer game guild. Voice chats evolved into real-life meetups.",
+    "goal": 21,
+    "next_due_date": "2026-04-10"
+  },
+  {
+    "id": 11,
+    "name": "Mia Young",
+    "picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "email": "mia.young@example.org",
+    "days_since_contact": 40,
+    "status": "overdue",
+    "tags": [
+      "work",
+      "gym buddy"
+    ],
+    "bio": "High school classmates who stayed in touch through thick and thin.",
+    "goal": 14,
+    "next_due_date": "2026-04-03"
+  },
+  {
+    "id": 12,
+    "name": "Logan King",
+    "picture": "https://randomuser.me/api/portraits/women/86.jpg",
+    "email": "logan.king@yahoo.com",
+    "days_since_contact": 16,
+    "status": "on-track",
+    "tags": [
+      "online",
+      "gaming friend"
+    ],
+    "bio": "Volunteered together at an animal shelter. Bonded over our love for rescue pets.",
+    "goal": 21,
+    "next_due_date": "2026-04-18"
+  }
+]
